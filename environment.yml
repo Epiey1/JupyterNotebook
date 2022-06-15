@@ -1,0 +1,5 @@
+name : JupyterNotebook
+Channels :
+  -conda-forge
+  dependencies :
+  -anaconda3
